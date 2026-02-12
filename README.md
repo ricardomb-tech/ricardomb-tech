@@ -41,9 +41,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics 
 <p align="center">
-<a href="https://github.com/Rik4rd0">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rik4rd0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rik4rd0&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ricardomb-tech">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ricardomb-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ricardomb-tech&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
