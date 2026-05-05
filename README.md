@@ -162,20 +162,25 @@ public class RicardoMartinez implements BackendDeveloper {
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardomb-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomb-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img src="https://streak-stats.demolab.com?user=ricardomb-tech&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardomb-tech&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardomb-tech&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ricardomb-tech&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricardomb-tech&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricardomb-tech&theme=tokyonight" width="32%"/>
 </div>
 
 ---
 
-## 🐍 &nbsp;Contribuciones
+## 📈 &nbsp;Actividad de Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ricardomb-tech/ricardomb-tech/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardomb-tech&theme=tokyo-night&hide_border=true&area=true&color=1E90FF&line=1E90FF&point=ffffff" width="100%"/>
 </div>
 
 ---
