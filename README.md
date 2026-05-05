@@ -1,42 +1,99 @@
-<div align="center">
-<h1 align="center">Hello, I am Ricardo Martinez</a> 👋</h1>
-</div>
-<img src="https://imgur.com/yS70xZM.png">
+# Hola, soy Ricardo Martínez 👋
 
+### Java Backend Developer | Spring Boot · REST APIs · Docker · AWS
 
-## About me
+Ingeniero de Sistemas con experiencia construyendo APIs REST robustas y escalables.
+Apasionado por el backend limpio, el código mantenible y las arquitecturas bien pensadas.
 
-   - 🔭 I'm currently working on developing backend microservices solutions with Java, Go, and PostgreSQL. I'm also exploring hexagonal architectures and development best practices.
- 
-   - 🌱 Currently learning: to program efficiently, applying best development practices, code optimization, and clean code principles.
+📍 Medellín, Colombia &nbsp;|&nbsp; 🟢 **Disponible para oportunidades remotas**
 
-   - 👯 Looking to collaborate on: software projects requiring best practices, microservices, and agile development using methodologies such as Scrum.
+---
 
-   - 🤔 Looking for help with: advanced continuous integration strategies and cloud deployment, especially on AWS and Vercel.
+## 🛠️ Stack Técnico
 
-   - ⚡ Fun fact: I love solving code problems like puzzles and am always looking for the most efficient way to optimize an application.
+**Backend**
 
-<br>
-
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-martinez-banda/)
-
-
-# 💻 Tech Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23397098.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+
+**Base de Datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Frontend (complementario)**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🎮 [JDS The Skill Game — Backend Platform](#)
+> Plataforma de gaming competitivo online con partidas en tiempo real
+
+- API REST con Spring Boot para gestión de usuarios, salas y ranking
+- Comunicación en tiempo real con **WebSocket y WebRTC**
+- Base de datos en **AWS RDS (MySQL)**, despliegue en **VPS**
+- +1,000 usuarios activos · Equipo de 5 desarrolladores
+
+`Java` `Spring Boot` `WebSocket` `WebRTC` `AWS RDS` `MySQL`
+
+---
+
+### 📋 [Task Manager API](#) *(En construcción)*
+> API REST completa para gestión de proyectos y tareas colaborativas
+
+- Autenticación con **JWT** y control de acceso por roles
+- CRUD completo con paginación, filtros y validaciones
+- Documentación automática con **Swagger / OpenAPI**
+- Desplegado en **Render.com** con **Docker Compose**
+
+`Java 21` `Spring Boot 3` `Spring Security` `PostgreSQL` `Docker` `Swagger`
+
+---
+
+### 🗺️ [GPS Tracker System](#) *(En desarrollo)*
+> Sistema integral de rastreo GPS con hardware, API y dashboard web
+
+- Análisis de requerimientos y diseño de arquitectura
+- API backend + aplicación web para visualización en tiempo real
+
+`Spring Boot` `Angular` `REST APIs` `IoT`
+
+
+---
+
+## 💼 Experiencia
+
+| Empresa | Rol | Período |
+|---------|-----|---------|
+| JDS The Skill Game | Backend Dev → Líder Técnico | Jul 2024 – Dic 2025 |
+| Accenture / Davivienda | Desarrollador Java | Jul 2023 – Ene 2024 |
+| Fenix BG SAS | Analista de Sistemas | Jul 2024 – Dic 2024 |
+
+---
+
+## 📫 Contacto
+
+¿Tienes un proyecto o una oportunidad? Hablemos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-martinez-banda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickmartinezbanda@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3A5F?style=for-the-badge&logo=github&logoColor=white)](https://ricardomb-tech.github.io)
 
 
 ## ⚙️ &nbsp;GitHub Analytics 
@@ -48,3 +105,6 @@
 </p>
 
 
+---
+
+*"El código limpio no se escribe por accidente — es el resultado de decisiones conscientes."*
