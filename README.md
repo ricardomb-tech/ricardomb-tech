@@ -3,11 +3,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=160&amp;section=header&amp;text=Ricardo%20Martinez%20Banda&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Junior%20Backend%20Developer%20%C2%B7%20Analytics%20Engineer&amp;descAlignY=58&amp;descSize=14&amp;descColor=a8d8a8" />
 
 </div>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Building+real+things+with+real+data+%F0%9F%8C%B1;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Prompt+Engineering+%7C+Claude+API+%7C+LLMs;IoT+%7C+ESP32+%7C+MQTT+%7C+Hardware;Learning+every+day+%F0%9F%9A%80" alt="Typing SVG" />
 
+<br/>
+
+<a href="https://www.linkedin.com/in/ricardo-martinez-banda/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+</a>
+&nbsp;
+<a href="https://ricardomb-tech.github.io/ricardomb.tech.github.io/home">
+  <img src="https://img.shields.io/badge/Portfolio-2D8653?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:rickmartinezbanda@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+</a>
 </div>
 
 <br/>
@@ -118,17 +130,7 @@ Lo que aprendí construyéndolo:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ricardo-martinez-banda/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-</a>
-&nbsp;
-<a href="https://ricardomb-tech.github.io/ricardomb.tech.github.io/home">
-  <img src="https://img.shields.io/badge/Portfolio-2D8653?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:rickmartinezbanda@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-</a>
+
 
 <br/><br/>
 
