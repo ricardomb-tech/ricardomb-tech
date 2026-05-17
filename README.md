@@ -80,7 +80,7 @@ Lo que aprendí construyéndolo:
 > Esta página web funciona como una solución integral de marketing digital para un restaurante especialzado en parrilla, resolviendo las necesidades de los clientes al ofrecer una plataforma centralizada que muestra claramente su menú de especialidades a la brasa (como hamburguesas, parrilladas y burritos) y distingue sus dos sedes con ambientes únicos, facilitando así la decisión de compra y el acceso a la experiencia gastronómica mediante información directa y canales de contacto sencillos..
 
 ```
-Frontend Next.js · Backend TypeScript (Node.js) · API REST · Base de datos relacional SQL · Autenticación JWT · Deploy Vercel/Supabase/Render
+Frontend Next.js · Backend TypeScript (Node.js) · API REST · Deploy Vercel
 ```
 
 Lo que aprendí construyéndolo:
