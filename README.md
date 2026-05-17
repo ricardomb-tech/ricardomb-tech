@@ -14,10 +14,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
-<a href="https://ricardomb-tech.github.io/ricardomb.tech.github.io/home">
-  <img src="https://img.shields.io/badge/Portfolio-2D8653?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-&nbsp;
 <a href="mailto:rickmartinezbanda@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
