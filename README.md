@@ -107,6 +107,7 @@ Lo que aprendí construyéndolo:
 
 | Proyecto | Qué aprendí | Tech |
 |----------|-------------|------|
+| 🎮 [PromptKit](https://github.com/ricardomb-tech/promptkit.git) | Construí herramientas de IA, API de Anthropic (Claude),YAML, JSON  | Python 3.10+ |
 | 🎮 [JDS The Skill Game](https://github.com/ricardomb-tech/jds-the-skill-game) | Microservicios, autenticación, eventos en tiempo real | Spring Boot · Angular · Docker |
 | ✅ [Mylife-hub](https://github.com/ricardomb-tech/mylife-hub.git) | Arquitectura hexagonal, JWT, testing | Spring Boot · Spring Security · PostgreSQL |
 | 📍 [GPS Tracker](https://github.com/JDSTHESKILLGAME/gps-noe-admin-web.git) | WebSockets, geocercas, mapas en tiempo real | Spring Boot · Angular · Redis |
