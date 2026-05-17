@@ -77,18 +77,16 @@ Lo que aprendí construyéndolo:
 ---
 ### 🏡 Donde Oscar
 
-> Plataforma digital desarrollada para la gestión integral de negocios familiares de alimentos —desde el control de inventarios, caja y facturación, hasta la visualización de métricas de ventas en tiempo real— todo desde el navegador.
+> Esta página web funciona como una solución integral de marketing digital para un restaurante especialzado en parrilla, resolviendo las necesidades de los clientes al ofrecer una plataforma centralizada que muestra claramente su menú de especialidades a la brasa (como hamburguesas, parrilladas y burritos) y distingue sus dos sedes con ambientes únicos, facilitando así la decisión de compra y el acceso a la experiencia gastronómica mediante información directa y canales de contacto sencillos..
 
 ```
 Frontend Next.js · Backend TypeScript (Node.js) · API REST · Base de datos relacional SQL · Autenticación JWT · Deploy Vercel/Supabase/Render
 ```
 
 Lo que aprendí construyéndolo:
-- Aplicar patrones de arquitectura limpia con separación clara entre backend, frontend y lógica de negocio.
-- Integrar autentificación robusta JWT y manejo seguro de sesión de usuarios.
+- Aplicar patrones de arquitectura limpia con separación clara entre frontend y lógica de negocio.
 - Construcción de dashboards responsivos con Next.js y componentes reutilizables en TypeScript.
-- Orquestación completa de entornos cloud para backend y frontend (Vercel, Supabase, Render).
-- Optimización de queries y modelado SQL efectivo para inventario, ventas y gestión de usuarios.
+- Orquestación completa de entornos cloud para frontend (Vercel).
 
 🔗 [Ver repositorio](https://github.com/ricardomb-tech/donde-oscar)  
 🌐 [Sitio web en vivo](https://www.dondeoscar.site/)
@@ -100,8 +98,8 @@ Lo que aprendí construyéndolo:
 | Proyecto | Qué aprendí | Tech |
 |----------|-------------|------|
 | 🎮 [JDS The Skill Game](https://github.com/ricardomb-tech/jds-the-skill-game) | Microservicios, autenticación, eventos en tiempo real | Spring Boot · Angular · Docker |
-| ✅ [Task Manager API](https://github.com/ricardomb-tech/task-manager-api) | Arquitectura hexagonal, JWT, testing | Spring Boot · Spring Security · PostgreSQL |
-| 📍 [GPS Tracker](https://github.com/ricardomb-tech/gps-tracker) | WebSockets, geocercas, mapas en tiempo real | Spring Boot · Angular · Redis |
+| ✅ [Mylife-hub](https://github.com/ricardomb-tech/mylife-hub.git) | Arquitectura hexagonal, JWT, testing | Spring Boot · Spring Security · PostgreSQL |
+| 📍 [GPS Tracker](https://github.com/JDSTHESKILLGAME/gps-noe-admin-web.git) | WebSockets, geocercas, mapas en tiempo real | Spring Boot · Angular · Redis |
 
 ---
 
