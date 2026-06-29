@@ -79,7 +79,7 @@ Lo que aprendí construyéndolo:
 - Prompt Engineering con prompts versionados en YAML y evaluación automática (LLM-as-judge)
 - Firmware ESP32 con protección de circuitos real (TVS diodes, decoupling caps)
 - Pipeline completo de datos: sensor → broker → API → DB → frontend
-- Deploy gratuito en producción: Render + Vercel + Supabase + HiveMQ Cloud
+- Deploy gratuito en producción: Fly.io + Vercel + Supabase + HiveMQ Cloud
 
 🔗 [Ver repositorio](https://github.com/ricardomb-tech/surqo)
 🌐 [Sitio web en vivo](https://www.surqo.online)
